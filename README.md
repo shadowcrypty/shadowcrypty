@@ -1,9 +1,10 @@
 ### Hi there 👋,I'm Ziya
+##
 ## A Game Developer from Burdur/Turkey
 
 - 🔭 I’m currently working on Hypercasual game genre.
 - 📫 How to reach me: linkedin.com/in/ziyanamli
-- 
+
 
 <!--
 **shadowcrypty/shadowcrypty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
