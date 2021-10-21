@@ -2,7 +2,7 @@
 ##
 ## A Game Developer from Burdur/Turkey
 
-- 🔭 I’m currently working on Hypercasual game genre.
+- 🔭 I’m currently working on Hypercasual Game Development genre.
 - 📫 How to reach me: linkedin.com/in/ziyanamli
 
 
