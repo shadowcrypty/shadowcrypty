@@ -3,7 +3,9 @@
 ## A Game Developer from Burdur/Turkey
 
 - 🔭 I’m currently working on Hypercasual Game Development genre.
-- 📫 How to reach me: linkedin.com/in/ziyanamli
+- 🌱 I’m currently learning JavaScript and Node.js
+
+- 📫 How to reach me: linkedin.com/in/ziyanamli && ziyanamli@gmail.com
 
 [![Ziya NAMLI's github stats](https://github-readme-stats.vercel.app/api?username=shadowcrypty&show_icons=true&theme=dark)](https://github.com/shadowcrypty/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowcrypty&langs_count=9&&layout=compact)](https://github.com/shadowcrypty/github-readme-stats)
@@ -15,7 +17,6 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
