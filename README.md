@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Hypercasual Game Development genre.
 - 🌱 I’m currently learning JavaScript and Node.js
 
-- 📫 How to reach me: linkedin.com/in/ziyanamli && ziyanamli@gmail.com
+- 📫 How to reach me: www.linkedin.com/in/ziyanamli & ziyanamli@gmail.com
 
 [![Ziya NAMLI's github stats](https://github-readme-stats.vercel.app/api?username=shadowcrypty&show_icons=true&theme=dark)](https://github.com/shadowcrypty/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowcrypty&langs_count=9&&layout=compact)](https://github.com/shadowcrypty/github-readme-stats)
