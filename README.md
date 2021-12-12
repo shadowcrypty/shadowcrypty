@@ -1,7 +1,7 @@
-### Hi there 👋,I'm Ziya
+### Hi there 👋,I'm Ziya.
 ##
-## A Game Developer from Burdur/Turkey
-I'm Computer Science and Engineering student at Mehmet Akif Ersoy University 4th grade
+## A Unity Game Developer from Burdur/Turkey.
+I'm Computer Science and Engineering student at Mehmet Akif Ersoy University 4th grade.
 
 - 🔭 I’m currently working on Hypercasual Game Development.
 - 🌱 I’m currently learning JavaScript and Node.js
