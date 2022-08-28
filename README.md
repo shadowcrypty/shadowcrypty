@@ -1,10 +1,10 @@
 ### Hi there 👋,I'm Ziya.
 ##
-## A Unity Game Developer from Burdur/Turkey.
+## A Unity Game Developer from Adana/Turkey.
 I'm Computer Science and Engineering student at Mehmet Akif Ersoy University 4th grade.
 
-- 🔭 I’m currently working on Hypercasual Game Development.
-- 🌱 I’m currently learning JavaScript and Node.js
+- 🔭 I’m currently working at Imaginite Studios as a Game Developer.
+
 
 - 📫 How to reach me: www.linkedin.com/in/ziyanamli & ziyanamli@gmail.com
 
@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently learning JavaScript and Node.js
 -->
