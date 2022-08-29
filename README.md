@@ -7,7 +7,7 @@ I'm Computer Science and Engineering student at Mehmet Akif Ersoy University 4th
 
 
 - 📫 How to reach me: www.linkedin.com/in/ziyanamli & ziyanamli@gmail.com
-
+[![shadowcrypty's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shadowcrypty&&theme=xcode)](https://github.com/shadowcrypty)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowcrypty&langs_count=9&&layout=compact)](https://github.com/shadowcrypty/github-readme-stats)
 [![Ziya NAMLI's github stats](https://github-readme-stats.vercel.app/api?username=shadowcrypty&show_icons=true&theme=dark)](https://github.com/shadowcrypty/github-readme-stats)
 
